@@ -1,0 +1,1 @@
+This is a simple springboot project that introduce to beans. It is showing that how can we create a simple bean & utilize it whenever needed. In this project, the applicationContext file in resources links the beans in the project.
